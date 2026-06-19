@@ -2,7 +2,7 @@ class Flare < Formula
   desc "Local-first search + document extraction across your files (CLI + MCP)"
   homepage "https://github.com/nha/flare"
   url "https://github.com/nha/flare/releases/download/v0.0.1/flare-cli-darwin-arm64.tar.gz"
-  sha256 "a3c5b899c7f243e64ff97db85bc77ba99a0f4fddcedde09d37138320508997a5"
+  sha256 "cbaa003ac3d7aa954b1950e4c0ca461352633633d8500602c3e9ae016b54f895"
   version "0.0.1"
   depends_on :macos
   depends_on arch: :arm64
